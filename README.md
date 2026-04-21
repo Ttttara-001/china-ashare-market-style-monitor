@@ -8,7 +8,7 @@ This project builds a small Python-based market style monitor for the China A-sh
 - What kind of market style is leading in the current quarter?
 - Has a style shift occurred?
 
-The project is designed as a simple data product rather than a traditional essay. It uses broad-index data to summarise the market in a way that is easier to interpret for non-professional users.
+The project is a simple data product. It uses broad-index data to summarise the market in a way that is easier to interpret for non-professional users.
 
 ## Analytical Problem
 Most stock market apps mainly show short-term information such as daily gainers, daily losers, and sector heatmaps. These are useful, but they do not always help users understand the broader market environment.
