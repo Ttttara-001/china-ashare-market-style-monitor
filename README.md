@@ -76,9 +76,8 @@ The notebook mainly uses standard Python tools such as:
 If update mode is used, it also requires:
 - tushare
 
-## 6. Product Link / Demo
-- **Demo video:** [insert demo link here]
-- **Repository link:** [insert repository link here]
+## 6. Demo
+- **Demo video:** [https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/b1af61c5d41142ed9b88382b1ce9993e1d]
 
 ## 7. Limitations & Next Steps
 This project has some limitations that should be acknowledged.
