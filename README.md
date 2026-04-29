@@ -9,7 +9,7 @@ This project uses daily China A-share broad-index data collected through **Tusha
 
 - **Source:** Tushare
 - **Access date:** 2026-04-20
-- **Key fields:** `index`, `date`, `close`, `amount`, `volume`
+- **Key fields:** `index` `date` `close` `amount` `volume`
 
 The analysis includes 10 major broad indices:
 
